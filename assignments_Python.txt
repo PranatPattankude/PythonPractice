@@ -1,0 +1,135 @@
+
+1. 	write a program for the basketball selection,
+	take height (float) as the input from the user and verify whethetr his height is 6.0 and above if yes 
+	he is selected , if height is less that 6.0 please print not selected
+
+
+
+2. Write a program for the school registry exmple 
+please take total marks as input from user for max 600 
+calculate the percentage of the total marks and verify if sthe student has passed in which grade
+
+>=0 and  <35    ----> FAIL
+>=35 and < 50   ====> passed in third class
+>=50 and < 60  ====> passed in second class
+>=60 and <85 ====> passed in first class
+>=85 and <= 100  ==> distinction
+apart above any other percentage comes its invalid entry
+
+
+
+
+
+
+3. write a prog for calculator 
+
+take 3 inputs from user 
+
+1st input = operation(add , sub , mul , div)
+2nd input = number 
+3rd input = number 
+
+
+add = input2 + input3
+sub = inpur2 - input3
+mul = inpur2 * input3
+div = inpur2 / input3
+
+if any other operation other than add , sub , mul , div u need to print invalid operation
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+4.
+List1 =[ 50, 33 , 27 , -20 , 85 , 74 , 4,9,3,7]
+Write w program which prints how many even and odd numbers are there in the above list
+
+
+
+
+5. L1 = ["python is good" , "Java is ok" , "i love python" , "c is mother lang" , "python rocks"] 
+
+please print all the elements of the list which has word python present in it and count how many elements contsins python word
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==========================================================
+
+6.
+Write a program to take email I'd and pwd as input from user and compare the same with hardcoded email I'd and pwd if both are matching then you need to print welcome to the home page and exit the loop. 
+If wrong credentials were given ask the email I'd and pwd again on a loop of 3 times. 
+If all the three times the credentials were given wrong print account locked. 
+
+
+
+7.
+Take any number between 1 to 10 and save in a temp variable. 
+Now ask user to guess the number between 1 to 10 and compare with the temp variable. 
+If both are same print  you have guessed the number correctly and also print the number of attempts taken to guess correctly in a loop. 
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+Random assignments 
+--------------------
+8.
+names = ['A','B','C',D','E','F']
+
+write a program which takes names list and prints the first prize and second prize winners 
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------\
+9. write a program which takes five numbers as input from user and prints which is maximum value and which is minimum value 
+without using max and min func?
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+line 1 : application started
+line 2 : connected to db
+line 3 : Error during connecting to schema server : 126.86.14.123
+line 4 : initiated the rollback process
+line 5 : ERROR due to space issue server : 126.138.165.87
+line 6 : the application failed due to ErroRs
+line 7 : terminated the cron job
+line 8 : DB process started
+line 9 : back up complete
+line 10 : over all JOB failed 
+
+
+

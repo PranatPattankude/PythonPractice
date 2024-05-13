@@ -1,0 +1,14 @@
+{
+  "Boys": [
+    {"name": "venkatesh","age": 25, "place": "Chennai"},
+    {"name": "Makarand", "age": 24, "place": "Bangalore"},
+    {"name": "Sreenivas", "age": 26, "place": "Bangalore"},
+    {"name": "Jayaram", "age": 22, "place": "Hyderabad"},
+    {"name": "Santhosh", "age": 28, "place": "Kochi"}
+  ],
+  "Girls": [
+    {"name": "Navya", "age": 23, "place": "USA"},
+    {"name": "lakshmi", "age": 27, "place": "Chennai"},
+    {"name": "veena", "age": 24, "place": "Bangalore"}
+  ]
+}
